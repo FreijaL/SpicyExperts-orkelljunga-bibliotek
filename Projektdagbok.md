@@ -1,3 +1,7 @@
+# Projektet
+https://github.com/users/FreijaL/projects/4
+Där hittar du även Sprintmål (skriven som en tickets överst i sprint backlogg:en) och DoD (skriven som "Description" under Dod-kolumnen)
+
 # Gruppmedlemmar
 - Freija Lindkvist
 - Christian
