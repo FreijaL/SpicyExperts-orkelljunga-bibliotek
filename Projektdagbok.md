@@ -15,7 +15,7 @@
 - Rangordnade user stories:arna och la de viktigaste i sprint backloggen.  
 - Skrev spritmålet 
 - Försökte estimera tidsåtgången så bra jag kunde och poängsatte därefter varje user story i sprint backloggen.
-- En andra view för att få en annan överblick över planeringen 
+- La till en andra view för att få en annan överblick över planeringen 
 ### Dag 3: 
 - La in labels för alla user stories. De i sprintbackloggen fick även poängen ditsatta. Alla fick ditsatt vems ansvar frontend/backend. 
 - Finslipat detaljet och utseende
